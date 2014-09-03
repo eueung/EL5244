@@ -31,3 +31,16 @@ Referensi Lain + Tools + etc.
 - Open Networking Summit  
   http://www.opennetsummit.org/  
   http://www.opennetsummit.org/archives.html
+
+- Open Networking Foundation  
+  https://www.opennetworking.org  
+
+Twitter
+--------------
+- @openflow   
+  https://twitter.com/openflow  
+
+- @sdn_news    
+  https://twitter.com/sdn_news
+
+
