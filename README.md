@@ -1,4 +1,4 @@
-PPJ - H2/2014
+PPJ - H2/2015
 ==============
 
 EL-5244  
@@ -14,6 +14,10 @@ Referensi MOOC
 
 - Computer Networking : Security and Software Defined Networking   
   https://www.udacity.com/course/ud436
+
+Slides
+--------------
+- TBA
 
 Referensi Lain + Tools + etc.
 --------------
