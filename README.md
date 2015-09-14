@@ -17,7 +17,8 @@ Referensi MOOC
 
 Slides
 --------------
-- TBA
+- [Scott Shenker: The Future of Networking, and the Past of Protocols](http://opennetsummit.org/archives/oct11/shenker-tue.pdf)
+- ...
 
 Referensi Lain + Tools + etc.
 --------------
