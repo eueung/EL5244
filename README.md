@@ -3,11 +3,11 @@ PPJ - H2/2015
 
 EL-5244  
 **Pemrograman Perangkat Jaringan**  
-**Virtualisasi dan SDN**   
+**Virtualization & Software Defined Networks**   
 Dr.-Ing. Eueung Mulyana
 
 
-Referensi MOOC
+MOOC (Reference) 
 --------------
 - Software Defined Networking  
   https://www.coursera.org/course/sdn  
@@ -15,12 +15,12 @@ Referensi MOOC
 - Computer Networking : Security and Software Defined Networking   
   https://www.udacity.com/course/ud436
 
-Slides
+Complementary Slides
 --------------
 - [Scott Shenker: The Future of Networking, and the Past of Protocols](http://opennetsummit.org/archives/oct11/shenker-tue.pdf)
-- ...
+- [Nick McKeown: Software Defined Networks](http://yuba.stanford.edu/~nickm/talks/ITC%20Keynote%20Sept%202011.ppt)
 
-Referensi Lain + Tools + etc.
+Other References + Tools + etc.
 --------------
 - Mininet  
   http://mininet.org/  
