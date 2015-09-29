@@ -20,6 +20,14 @@ Complementary Slides
 - [Scott Shenker: The Future of Networking, and the Past of Protocols](http://opennetsummit.org/archives/oct11/shenker-tue.pdf)
 - [Nick McKeown: Software Defined Networks](http://yuba.stanford.edu/~nickm/talks/ITC%20Keynote%20Sept%202011.ppt)
 
+Videos
+--------------
+- [John Donovan: Network Transformation](https://www.youtube.com/watch?v=NCIuQSsMBUc)
+- [Explore the Possibilities of the Software Defined Network](https://www.youtube.com/watch?v=BR6nxcKaMX0)
+- [AT&T Network on Demand](https://www.youtube.com/watch?v=fstYVlvmuhQ)
+- [Network on Demand Services | AT&T](https://www.youtube.com/watch?v=XL1PX7vTeTs)
+- ...
+
 Other References + Tools + etc.
 --------------
 - Mininet  
