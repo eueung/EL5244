@@ -9,7 +9,7 @@ Institut Teknologi Bandung
 
 Slides
 --------------
-- [PPJ-01]()
+- [PPJ-01 | SDN Introduction](https://speakerdeck.com/eueung/ppj-01-introduction)
 - [PPJ-02]()
 - [PPJ-03]()
 - [PPJ-04]()
