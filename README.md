@@ -4,21 +4,22 @@ PPJ - H2/2015
 EL-5244  
 **Pemrograman Perangkat Jaringan**  
 **Virtualization & Software Defined Networks**   
-Dr.-Ing. Eueung Mulyana
+Dr.-Ing. Eueung Mulyana  
+Institut Teknologi Bandung
 
-
-MOOC (Reference) 
+Slides
 --------------
-- Software Defined Networking  
-  https://www.coursera.org/course/sdn  
-
-- Computer Networking : Security and Software Defined Networking   
-  https://www.udacity.com/course/ud436
+- [PPJ-01]()
+- [PPJ-02]()
+- [PPJ-03]()
+- [PPJ-04]()
+- [PPJ-05]()
 
 Complementary Slides
 --------------
 - [Scott Shenker: The Future of Networking, and the Past of Protocols](http://opennetsummit.org/archives/oct11/shenker-tue.pdf)
 - [Nick McKeown: Software Defined Networks](http://yuba.stanford.edu/~nickm/talks/ITC%20Keynote%20Sept%202011.ppt)
+- [Guido Appenzeller: Transforming the network with Open SDN ](http://www.slideshare.net/opennetsummit/ons2013-guido-appenzellerbig-switch-networks)
 
 Videos
 --------------
@@ -27,6 +28,14 @@ Videos
 - [AT&T Network on Demand](https://www.youtube.com/watch?v=fstYVlvmuhQ)
 - [Network on Demand Services | AT&T](https://www.youtube.com/watch?v=XL1PX7vTeTs)
 - ...
+
+MOOC (Reference) 
+--------------
+- Software Defined Networking  
+  https://www.coursera.org/course/sdn  
+
+- Computer Networking : Security and Software Defined Networking   
+  https://www.udacity.com/course/ud436
 
 Other References + Tools + etc.
 --------------
