@@ -5,13 +5,14 @@ EL-5244
 **Pemrograman Perangkat Jaringan**  
 **Virtualization & Software Defined Networking**   
 Dr.-Ing. Eueung Mulyana  
-Institut Teknologi Bandung
+**Institut Teknologi Bandung**  
+eueung(-at-)stei.itb.ac.id
 
 Slides
 --------------
 - [PPJ-01 | SDN Introduction](https://speakerdeck.com/eueung/ppj-01-introduction)
-- [PPJ-02 | SDN History & Origins]()
-- [PPJ-03 | SDN Abstractions]()
+- [PPJ-02 | SDN History & Origins](https://speakerdeck.com/eueung/ppj-02)
+- [PPJ-03 | SDN Abstractions](https://speakerdeck.com/eueung/ppj-03)
 - [PPJ-04 | SDN Applications]()
 - [PPJ-05 | SDN Challenges]()
 
@@ -27,7 +28,9 @@ Videos
 - [Explore the Possibilities of the Software Defined Network](https://www.youtube.com/watch?v=BR6nxcKaMX0)
 - [AT&T Network on Demand](https://www.youtube.com/watch?v=fstYVlvmuhQ)
 - [Network on Demand Services | AT&T](https://www.youtube.com/watch?v=XL1PX7vTeTs)
-- ...
+- [Why SDN...Software-defined Networking?](https://www.youtube.com/watch?v=b5JNMDWt4lA)
+- [The Future-Ready Network](https://www.youtube.com/watch?v=GDm2rAPwgoE)
+- [HP SDN App Store: SDN is Now! Are you Ready?](https://www.youtube.com/watch?v=lsO_OKWRAoE)
 
 MOOC (Reference) 
 --------------
