@@ -13,14 +13,16 @@ Slides
 - [PPJ-01 | SDN Introduction](https://speakerdeck.com/eueung/ppj-01-introduction)
 - [PPJ-02 | SDN History & Origins](https://speakerdeck.com/eueung/ppj-02)
 - [PPJ-03 | SDN Abstractions](https://speakerdeck.com/eueung/ppj-03)
-- [PPJ-04 | SDN Applications]()
-- [PPJ-05 | SDN Challenges]()
+- [PPJ-04 | SDN Applications](https://speakerdeck.com/eueung/ppj-04)
+- [PPJ-05 | SDN Challenges](https://speakerdeck.com/eueung/ppj-05)
 
 Complementary Slides
 --------------
 - [Scott Shenker: The Future of Networking, and the Past of Protocols](http://opennetsummit.org/archives/oct11/shenker-tue.pdf)
 - [Nick McKeown: Software Defined Networks](http://yuba.stanford.edu/~nickm/talks/ITC%20Keynote%20Sept%202011.ppt)
 - [Guido Appenzeller: Transforming the network with Open SDN ](http://www.slideshare.net/opennetsummit/ons2013-guido-appenzellerbig-switch-networks)
+- [Urs Hoelzle: OpenFlow @ Google](http://www.opennetsummit.org/archives/apr12/hoelzle-tue-openflow.pdf)
+- [Albert Greenberg: Scaling SDN in the Public Cloud](http://www.slideshare.net/opennetsummit/ons2014-albert-greenbergmicrosoft)
 
 Videos
 --------------
@@ -31,6 +33,8 @@ Videos
 - [Why SDN...Software-defined Networking?](https://www.youtube.com/watch?v=b5JNMDWt4lA)
 - [The Future-Ready Network](https://www.youtube.com/watch?v=GDm2rAPwgoE)
 - [HP SDN App Store: SDN is Now! Are you Ready?](https://www.youtube.com/watch?v=lsO_OKWRAoE)
+- [ONS2012 | OpenFlow @ Google - Urs Hoelzle, Google](https://www.youtube.com/watch?v=VLHJUfgxEO4)
+- [ONS2014 | Scaling SDN, Albert Greenberg, Microsoft](https://www.youtube.com/watch?v=8Kyoj3bKepY)
 
 MOOC (Reference) 
 --------------
