@@ -13,8 +13,14 @@ Slides
 - [PPJ-01 | SDN Introduction](https://speakerdeck.com/eueung/ppj-01-introduction)
 - [PPJ-02 | SDN History & Origins](https://speakerdeck.com/eueung/ppj-02)
 - [PPJ-03 | SDN Abstractions](https://speakerdeck.com/eueung/ppj-03)
-- [PPJ-04 | SDN Applications](https://speakerdeck.com/eueung/ppj-04)
+- [PPJ-04 A | SDN Applications - Overview](https://speakerdeck.com/eueung/ppj-04)
+- [PPJ-04 B | SDN Applications]()
 - [PPJ-05 | SDN Challenges](https://speakerdeck.com/eueung/ppj-05)
+- [PPJ-06 | SDN @ Telcos](https://speakerdeck.com/eueung/ppj-06)
+- [PPJ-07 | SDN Forwarding Abstractions, OF, OF++]()
+- [PPJ-08 | SDN - Middleboxes & NFV]()
+- [PPJ-09 | SDN - Mininet]()
+- [PPJ-10 | SDN - SBI, Frameworks & Languages]()
 
 Complementary Slides
 --------------
@@ -35,6 +41,7 @@ Videos
 - [HP SDN App Store: SDN is Now! Are you Ready?](https://www.youtube.com/watch?v=lsO_OKWRAoE)
 - [ONS2012 | OpenFlow @ Google - Urs Hoelzle, Google](https://www.youtube.com/watch?v=VLHJUfgxEO4)
 - [ONS2014 | Scaling SDN, Albert Greenberg, Microsoft](https://www.youtube.com/watch?v=8Kyoj3bKepY)
+- [ONS2015 | A Look Inside Google's DC Network, Amin Vahdat, Google](https://www.youtube.com/watch?v=FaAZAII2x0w)
 
 MOOC (Reference) 
 --------------
