@@ -14,13 +14,13 @@ Slides
 - [PPJ-02 | SDN History & Origins](https://speakerdeck.com/eueung/ppj-02)
 - [PPJ-03 | SDN Abstractions](https://speakerdeck.com/eueung/ppj-03)
 - [PPJ-04 A | SDN Applications - Overview](https://speakerdeck.com/eueung/ppj-04)
-- [PPJ-04 B | SDN Applications]()
 - [PPJ-05 | SDN Challenges](https://speakerdeck.com/eueung/ppj-05)
 - [PPJ-06 | SDN @ Telcos](https://speakerdeck.com/eueung/ppj-06)
-- [PPJ-07 | SDN Forwarding Abstractions, OF, OF++]()
-- [PPJ-08 | SDN - Middleboxes & NFV]()
-- [PPJ-09 | SDN - Mininet]()
-- [PPJ-10 | SDN - SBI, Frameworks & Languages]()
+- PPJ-04 B | SDN Applications[]()
+- PPJ-07 | SDN Forwarding Abstractions, OF, OF++[]()
+- PPJ-08 | SDN - Middleboxes & NFV[]()
+- PPJ-09 | SDN - Mininet[]()
+- PPJ-10 | SDN - SBI, Frameworks & Languages[]()
 
 Complementary Slides
 --------------
