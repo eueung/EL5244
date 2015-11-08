@@ -43,6 +43,11 @@ Videos
 - [ONS2014 | Scaling SDN, Albert Greenberg, Microsoft](https://www.youtube.com/watch?v=8Kyoj3bKepY)
 - [ONS2015 | A Look Inside Google's DC Network, Amin Vahdat, Google](https://www.youtube.com/watch?v=FaAZAII2x0w)
 
+Python
+--------------
+- [Python Basics #1](http://eueung.github.io/EL6240/py) or [@speakerdeck](https://speakerdeck.com/eueung/python-intro)
+- [Python Basics #2](http://eueung.github.io/EL5244/py-tut/) or [@speakerdeck](https://speakerdeck.com/eueung/py-tut)
+
 MOOC (Reference) 
 --------------
 - Software Defined Networking  
