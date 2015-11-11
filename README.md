@@ -17,9 +17,9 @@ Slides
 - [PPJ-05 | SDN Challenges](https://speakerdeck.com/eueung/ppj-05)
 - [PPJ-06 | SDN @ Telcos](https://speakerdeck.com/eueung/ppj-06)
 - [PPJ-07 | SDN - Middleboxes & NFV](https://speakerdeck.com/eueung/ppj-07)
+- [PPJ-09 | SDN - Mininet](https://speakerdeck.com/eueung/ppj-09)
 - PPJ-04 B | SDN Applications[]()
 - PPJ-08 | SDN Forwarding Abstractions, OF, OF++[]()
-- PPJ-09 | SDN - Mininet[]()
 - PPJ-10 | SDN - SBI, Frameworks & Languages[]()
 
 Complementary Slides
@@ -29,6 +29,7 @@ Complementary Slides
 - [Guido Appenzeller: Transforming the network with Open SDN ](http://www.slideshare.net/opennetsummit/ons2013-guido-appenzellerbig-switch-networks)
 - [Urs Hoelzle: OpenFlow @ Google](http://www.opennetsummit.org/archives/apr12/hoelzle-tue-openflow.pdf)
 - [Albert Greenberg: Scaling SDN in the Public Cloud](http://www.slideshare.net/opennetsummit/ons2014-albert-greenbergmicrosoft)
+- [Craig Finch: SDN: DevOps for Networks](https://speakerdeck.com/cfinch/sdn-devops-for-networks)
 
 Videos
 --------------
