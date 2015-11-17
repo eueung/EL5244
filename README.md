@@ -17,9 +17,9 @@ Slides
 - [PPJ-05 | SDN Challenges](https://speakerdeck.com/eueung/ppj-05)
 - [PPJ-06 | SDN @ Telcos](https://speakerdeck.com/eueung/ppj-06)
 - [PPJ-07 | SDN - Middleboxes & NFV](https://speakerdeck.com/eueung/ppj-07)
+- [PPJ-08 | SDN - OpenFlow & Switches](https://speakerdeck.com/eueung/ppj-08)
 - [PPJ-09 | SDN - Mininet](https://speakerdeck.com/eueung/ppj-09)
 - PPJ-04 B | SDN Applications[]()
-- PPJ-08 | SDN Forwarding Abstractions, OF, OF++[]()
 - PPJ-10 | SDN - SBI, Frameworks & Languages[]()
 
 Complementary Slides
